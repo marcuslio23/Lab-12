@@ -1,0 +1,1 @@
+{"01": {"py/object": "Domain.magazin.Magazin", "_Entitate__id_entitate": "01", "_Magazin__nume": "asd", "_Magazin__cateogire": "aaa"}, "02": {"py/object": "Domain.magazin.Magazin", "_Entitate__id_entitate": "02", "_Magazin__nume": "asd", "_Magazin__cateogire": "aaa"}}
